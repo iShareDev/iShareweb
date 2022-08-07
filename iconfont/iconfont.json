@@ -1,0 +1,30 @@
+{
+  "id": "3572924",
+  "name": "sy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-ishare",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2186",
+      "name": "专辑",
+      "font_class": "zhuanji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "68235",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "629357",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
